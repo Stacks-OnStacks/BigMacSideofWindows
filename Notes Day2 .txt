@@ -1,0 +1,53 @@
+Izzy 
+
+-Decided to redo entire project working
+
+-Having a hard time figuring  out where to start it 
+
+
+Mark 
+
+-Still working on starting on project; planning to work on menus today
+
+-Also looking at videos and how to structure
+
+-Struggling with coding games and how to format the solutions 
+
+
+Davontaye
+
+-Started his project with the menu , worked on register and login method 
+
+-Working on the password to register a user
+
+-Planning on starting main menu today(withdraw, deposit, etc)
+
+-Struggling with the coding games and coming up with a solution; finding right tools to solve problems
+
+
+Thea 
+
+-Built a bunch of her menus yesterday
+
+-Created functions to be implemented
+
+-Plans on the custom logger today 
+
+-Struggling to decide what is necessary/not necessary for the project 
+
+Byron
+
+-Working on CustomLogger
+
+-Planning on working on Menus today 
+
+-Struggling with time management due to assessment 
+
+
+Devonna 
+
+- Started working on operation functions 
+
+- Struggling with structure/ process and getting the program to run  as I want 
+
+
