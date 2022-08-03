@@ -1,0 +1,44 @@
+1.What have we done?
+2.What we plan on doing?
+3.Any road blocks?
+
+Mark
+
+1. create all menu options, refining it, and testing it on MainDriver
+2. menurouter
+3. Terminology 
+
+Izzy
+
+1. Folder structure and skeleton, menus
+
+2. Review videos to understand the structure more and the connections
+
+3. Somethings are not connected since they are not created 
+
+Byron
+
+1. Pushed menu and menurouter, started customcollection list,linkedlist, collection
+
+2. Plan on finishing custom collection
+
+3. Terminology review
+
+Thea
+
+1. CustomLogger finished, tied it to Menus, 
+2. Plan on working on BankAccount Model, members model,
+3. Not adding too much, avoiding spaghetti code, refine
+
+
+Devonna
+
+1. I am working on my service layer of my banking app  
+2. I plan on  working/ finishing my validation  level of my banking app 
+3. Getting some errors that I'm working through, a little worried about connecting to the database
+
+Devontae
+
+1) going through writing my code for the menu registration and log in
+2) Next i plan on finishing menu, registration, and log in functionality
+3) Road block making sure I incorporate the menurouter correctly
