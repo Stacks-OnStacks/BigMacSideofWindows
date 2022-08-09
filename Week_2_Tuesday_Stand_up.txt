@@ -1,0 +1,26 @@
+
+Davontaye
+Implementing banking aspect app
+Want to set up to sql database <- roadblock
+
+
+Mark
+Completed everything but working on test cases and sql stuff
+No roadblocks
+
+
+Thea
+Work on cleaning up project and add somethings to see if it runs\
+Roadblock- time management
+
+
+Byron
+Completed app and test ran fine
+Will do more testing
+No roadblocks
+
+
+Issiaka
+Worked on my database, login and registration menus\
+Plan to complete transactions\
+No roadblock}
