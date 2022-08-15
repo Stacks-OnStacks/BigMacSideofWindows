@@ -1,0 +1,39 @@
+1. What are we excited about?
+2. What do you think will be a roadblock?
+
+____
+
+Caleb
+
+1. Excited about learning hibernate on our own
+2. The challenge will be implementing hibernate, and understand HTTP 
+requests
+
+
+----
+
+Mark
+
+1. Excited to see how this project differes
+2. Teaching myself hibernate, and what its for.
+
+----
+
+Thea
+
+1. Excited about the creativity, 
+2. Learning hibernate on my own. Working with a new partner.
+
+----
+
+Byron
+
+1. Working with a partner
+2. Merge conflicts.
+
+----
+
+Izzy
+
+1. Working on a team.
+2. Merge conflicts are a past source of stress.
