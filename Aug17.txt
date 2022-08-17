@@ -1,0 +1,35 @@
+
+1. What have I done?
+2. What will I work on today?
+3. What roadblocks are you encountering? 
+
+========================================
+Byron
+
+1. I set up hibernate and test suite to make sure it connects to the database
+2. Find out about entities in hibernate and how it works.
+3. Hopefully less merge conflicts
+
+Caleb
+
+1. Set up servletContext, made sure it works.
+2. Setting up models with hibernate annotations
+3. Low energy
+
+Izzy
+
+1. Set up servletContext, and made sure it works.
+2. Learn about hibernate and implement it
+3. still a little sick and low energy 
+
+Thea
+
+1. Set up hibernate
+2. Setting up servlets
+3. still figuring out git with a partner
+
+Mark
+
+1. read up on hibernate
+2. implement hibernate and work on DTOs
+3. null
