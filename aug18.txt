@@ -1,0 +1,26 @@
+Stand Up
+
+Byron:
+-Worked on the implementation of adding a memeber to database
+-Will be working on memberDoa today
+-Possible merge conflics
+
+Mark:
+-Worked on hibernate for a bit
+-Work on DTO for servlets
+-Roadblock with a little hibernate
+
+Caleb:
+-Built models 
+-Want to figure out how to implement foreign keys
+-foreign keys is the roadblock
+
+Thea:
+-Set up hibernate and dishes.java
+-Work on servlets and postmate
+-biggest roadblock is postmate and servlets
+
+Issiaka:
+-Worked on some hibernate properties and hibernate util
+-Complete the hibernate stuff today and work on DTO
+-Trying to learn hibernate
