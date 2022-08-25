@@ -1,0 +1,31 @@
+1. What have we done since last time?
+2. What are we going to work on today?
+3. Any roadblocks?
+
+======================================
+
+Byron & Caleb
+
+1. Worked on members and dishes (servlets, dao, services), exceptions, DTO
+2. Work on testing to see if a member is succesfully created
+3. Understanding the later parts of the ERD and how foreign keys join 
+tables with hibernate
+
+=====================================
+
+Mark and Izzy
+
+finished, DTOs,  planned to work on user services,  Roadblock, none at the 
+moment
+
+=======================================
+
+Thea
+
+What we did: finished unit testing, users, and handled merge conflicts . . 
+. Plan for today: Setting up up orders and more servlets . . .  
+Roadblocks: merge conflicts
+
+======================================
+
+
