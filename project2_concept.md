@@ -2,15 +2,15 @@
 
 ### <u>Team Members</u>: Caleb Beck, Byron Fedele, Issiaka Kone, Handerson Coq, & Sammy Box
 # IT Helpdesk - an IT Ticketing Service
-- <b>Description:</b> An IT Ticketeting API that allows employees of {{COMPANY NAME}} to create/edit/delete IT tickets
+- <b>Description:</b> An IT Ticketeting API that allows employees of {{COMPANY NAME}} to create and manage IT tickets
 for their IT issues. The admin can appoint technicians (ITPros) that will confirm/process/resolve tickets based on
 their priority level. The Admin can also create/edit/delete departments
 <br></br>
 - <b>Possible External APIs:</b>
   - Google Login API*
   - Profile Generator API
-  - Analytic Graphics API
-  - Google Messaging API*
+  - Analytic Graphics API 
+  - Google Messaging API (depreciated)
 <br></br>
 - <b>User Stories</b>
   1. Any user can register a new account/Users can update/delete their account (User,ITPro,Admin)
@@ -23,7 +23,6 @@ their priority level. The Admin can also create/edit/delete departments
   8. Any ITPro/Admin can update a ticket's subject/priority
   9. Any ticket that HASN'T been resolved when the ITPro/Admin logs out/deletes their account will return to the ticket pool
   10. Any Admin can update a member's role (ITPro,User,Admin)
-  11. Any Admin can delete ('resolve') tickets from ticket pool
 <br></br>
 - <b>REACH GOALS</b>
   - Implement a messaging service that lets users communicate with an ITPro associated with their Ticket
@@ -34,5 +33,7 @@ their priority level. The Admin can also create/edit/delete departments
     - Users -> {(PK) user_id, work_email, password, f_name, l_name, role, (FK) department_id}
     - Subjects -> {(PK) subject_id, subject_name}
     - Departments -> {(PK) department_id, department_name}
-    - Tickets -> {(PK) ticket_id, (FK) req_user_id, (FK) pro_user_id, submission_date, (FK) subject, description, priority, status}
+    - Tickets -> {(PK) ticket_id, (FK) req_user_id, (FK) pro_user_id, submission_date, (FK) subject_id, description, priority, status}
+  - ERD:
+![](Project2ERD.png)
 <br></br>
