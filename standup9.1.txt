@@ -1,0 +1,35 @@
+Standup 9.1 - Big Mac and a Side of Windows 
+
+Sammy Box
+
+we finished the setup for models and repo
+
+Today, we are working on aspects and finishing user services and possibly working on the UI if we want to do initial setup for it.
+
+Struggling with finding time to stay current on this week's material while also finish the project is a challenge, but mostly because of time
+
+Handerson Coq
+
+What I did:
+practiced some JS codes
+What I'm working on:
+loging aspect
+Struggle:
+keep the energy and motivation...
+
+Byron Fedele
+1. Looked into CodePipeline yesterday. Figured out we need to have an object in s3 buckets first
+2. Working on AuthAspect today.
+3. No roadblocks
+
+Caleb Beck
+Worked on: completing the mmodels/dtos/repositories
+Plan to work on: Reviewing code and helping where needed
+Roadblocks: Energy and sleep
+
+Izzy
+What I did:
+Worked on ticket model yesterday and team merges
+What I plan to work on today:
+Work on aspect for exception
+Roadblock: No roadblocks at the moment
